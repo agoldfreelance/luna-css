@@ -1,0 +1,21 @@
+body {
+  background: #8686cc;
+}
+.box {
+  position: relative;
+  width: 600px;
+  height: 400px;
+  display: block;
+  margin: auto;
+  margin-top: 10%;
+  border: solid 5px black;
+}
+.head-main {
+  position: absolute;
+  width: 50%;
+  height: 67%;
+  background: #020202;
+  border-radius: 50%;
+  top: 16.5%;
+  left: 25%;
+}
